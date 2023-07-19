@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ntuegOGusmE7/jf3CwR0tENcl2Ci6Y0v+KnG5Vrb72PgsPxzc+5GScI4Rh8aLOlH12ST5tYEYayvWvjbHEn0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\First Steps In Coding - Lab\\Inches to Centimeters\\Inches to Centimeters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

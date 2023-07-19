@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JXHueXPDjORZZygKnKkv1RFbtLmgIdkGremuJV9q7aKvt5GQN964I3WYPesO6JEvpKSnzyhfMOi9r5qbnLsQvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\First Steps In Coding - Lab\\Rectangle Area\\Rectangle Area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

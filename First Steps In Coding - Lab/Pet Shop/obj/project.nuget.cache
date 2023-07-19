@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hh8FJfWeVnyauEHSM7F1lNioo5gI18g2Y0CeGsTnFdtgvaVPOWt8vj6lV7Nyr6aujGcGJChvWnNMFi3nRLkZIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\First Steps In Coding - Lab\\Pet Shop\\Pet Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

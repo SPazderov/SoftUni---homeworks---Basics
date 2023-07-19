@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "plIoiEWqbSBCIwS8e3saBZe5CEIgpxG7KnQxdEzDDvyuiEf0F56dzpHfg8DUzKYMFn8DIQOIO2vd77BnTlzK0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\First Steps In Coding - Lab\\First Steps In Coding - Lab\\Hello world.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
