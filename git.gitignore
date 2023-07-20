@@ -30,6 +30,8 @@
     [Dd]ebug*/
     [Rr]elease*/
     Ankh.NoLoad
+    .vs
+    .txt
     
     #Tooling
     _ReSharper*/
