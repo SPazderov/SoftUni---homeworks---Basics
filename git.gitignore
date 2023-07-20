@@ -1,4 +1,5 @@
-  #OS junk files
+git config --global core.excludesfile ~/.gitignore_global
+#OS junk files
     [Tt]humbs.db
     *.DS_Store
     
