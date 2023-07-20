@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D0VN9jeRqSQ/R/8IDFGrqMuOAeRp1ZpxkLaXh++JhfzO/oz9VRDVuB5EauYrx0u5F1m1ORsVAuKyLcxiOG0YoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\First Steps In Coding - Exercise\\First Steps In Coding - Exercise\\USD to BGN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

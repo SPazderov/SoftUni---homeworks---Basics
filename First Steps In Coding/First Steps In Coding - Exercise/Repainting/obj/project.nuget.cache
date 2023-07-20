@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g48u7+M2uL7Sw7UHYw3T2LwHfGpJLmL2kzBQ5tRToV7D4DwQ4Byt/h8Q8wIh4LIQZoACLWj7K13N4PNksrF2Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\First Steps In Coding - Exercise\\Repainting\\Repainting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

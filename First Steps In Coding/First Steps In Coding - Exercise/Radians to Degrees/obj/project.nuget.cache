@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mk17sTCJydZlUdJ6vN1UeTtKtsJHfIYH7V0a+xgiszs+p9xJcJIz4YjvOLYsHN+xBuAQ1dD21Rc58Ku4c6OGwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\First Steps In Coding - Exercise\\Radians to Degrees\\Radians to Degrees.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
