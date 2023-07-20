@@ -3,6 +3,8 @@
     *.DS_Store
     
     #Visual Studio files
+    *.vs
+    *.txt
     *.[Oo]bj
     *.user
     *.aps
@@ -30,8 +32,7 @@
     [Dd]ebug*/
     [Rr]elease*/
     Ankh.NoLoad
-    .vs
-    .txt
+    
     
     #Tooling
     _ReSharper*/
