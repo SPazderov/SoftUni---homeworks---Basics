@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SpKCPvfE6KemcdGfZLBtEneJ96KhCBSh5m0LWCnaJ6rQIGl0uErIxhALeUh5ib8FzebgRneLinhoUo3Zz3czow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Conditional Statements - Exercise\\Toy Shop\\Toy Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

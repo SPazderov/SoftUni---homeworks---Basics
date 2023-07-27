@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G82efFYqmoB6tEbCYdXbXEgTvEidVucQBfmr2GyEDexANDfXqlN7Bh6RORvOAiR81du9cMxsJt1XMlziCLLRIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Conditional Statements - Exercise\\Godzilla vs. Kong\\Godzilla vs. Kong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

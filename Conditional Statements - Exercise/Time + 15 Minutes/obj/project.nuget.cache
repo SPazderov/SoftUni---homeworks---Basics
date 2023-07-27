@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tKHdP3esYS5MO4njp279yfRm9moA6sTIHN3vSiRF7WzzTLMZgUdgNV8fJsYvPMYPv8BwZ0guKQjjNuhHdpJYcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Conditional Statements - Exercise\\Time + 15 Minutes\\Time + 15 Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

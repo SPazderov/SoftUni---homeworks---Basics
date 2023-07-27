@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yhhsThk21LCaiH2/zE9bnuRlmOTtaUFNSlXnPRiUlfskpYkQ2irpIcvs9QNOHudR5ZJUVRPmBuP5tblYc+Xa/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Conditional Statements - Exercise\\World Swimming Record\\World Swimming Record.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
