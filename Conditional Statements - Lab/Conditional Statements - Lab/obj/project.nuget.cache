@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W7DryIabGlemKnPMmaw3xoDeJi/zZBs4iYhpbINJ0s0ktvcNfSzhL69M/Gr9yL+XJVfIQykZMgrtLnmAjhm0tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Conditional Statements - Lab\\Conditional Statements - Lab\\Excellent Result.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

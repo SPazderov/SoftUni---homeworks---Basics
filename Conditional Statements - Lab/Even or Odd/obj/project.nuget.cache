@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V0A0Sf2w7cQZy3tGXIEnfBpuMIKM04ZpnqL/D9LU24u03N/tcV2R/wKL1vqRXaA/8dLbg1TXLgA34eerCfECFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Conditional Statements - Lab\\Even or Odd\\Even or Odd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
