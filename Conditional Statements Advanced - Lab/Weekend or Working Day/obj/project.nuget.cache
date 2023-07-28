@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1TymT5tbDVlZN0vWOjoPf3TKHLXdHsr9XBKdg/Kru6gwLFsAO6kfDBCx3Xk3iPoN1Pkj8r/i+F8pvnFHV2deNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Conditional Statements Advanced - Lab\\Weekend or Working Day\\Weekend or Working Day.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

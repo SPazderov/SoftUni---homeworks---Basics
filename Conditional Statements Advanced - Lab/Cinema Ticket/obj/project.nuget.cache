@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TnEAysJEwsTTypmykb8uISinj/QofQ5wSG5zL9+/D0sbNPqT6eCs8e/zX5O83wt/+eLW3ujcjXPZIcKSyz6PTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Conditional Statements Advanced - Lab\\Cinema Ticket\\Cinema Ticket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
