@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fxPM3ALrQosQNyCIZWOD7e3CJ6XpwCYLQKsxhjJDruSOyiMt/0n/CxBzX3ynWvBZzwlwBeDAkv9BxUSykHD+AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Conditional Statements Advanced - Exercise\\Ski Trip\\Ski Trip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

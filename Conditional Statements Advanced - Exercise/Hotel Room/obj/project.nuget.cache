@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pml9qNHsQ2xRYXuRWYc+4gAwpnJZI8jA7FZKlSPq1H/MGa100WCozSD2h0SsauyQ+OO/m88tERpKe2Lmb0sM1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Conditional Statements Advanced - Exercise\\Hotel Room\\Hotel Room.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

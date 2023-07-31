@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5dy6ZeV7E8tnj9jJkuKu4ZHenjO8QqAiC0+A57pGhMnYoIFNrHlyU+6LCi+W0aTboidkrIHPgru6tMLf3Fd3sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Conditional Statements Advanced - Exercise\\Fishing Boat\\Fishing Boat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

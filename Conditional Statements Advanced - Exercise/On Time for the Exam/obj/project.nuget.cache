@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/8Wp42DOGza/iGdhOySmneEWC9uyp4Zny7PWpSmqDZJ82K+l4npVGusnWSWI3vFNOO9UqwRL50lrkXH7NEx/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Conditional Statements Advanced - Exercise\\On Time for the Exam\\On Time for the Exam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

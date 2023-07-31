@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "slN/+8aUQdJbdOGYQXffb7DR9IsSBQtoN2NR8In3a8NL1Q2I1IBV+TQ9ljq1UXGOUkTfFQ8ePQx43lqYRckDWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Conditional Statements Advanced - Exercise\\New House\\New House.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
