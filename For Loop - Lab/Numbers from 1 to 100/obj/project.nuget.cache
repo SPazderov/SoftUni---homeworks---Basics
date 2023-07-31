@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0MpV3uONv8+rnpWZ9LXHCGp9iYS/rssnAHEKR+ho/snAl9KykSsDTwY6i46SRwh56XhhwC44ojaN6G2SypcdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\For Loop - Lab\\Numbers from 1 to 100\\Numbers from 1 to 100.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

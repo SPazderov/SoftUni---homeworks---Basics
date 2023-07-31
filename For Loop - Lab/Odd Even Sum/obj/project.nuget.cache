@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NKeA3r96psFPsKlSJ5jajNdiUvRI0R4gqMuJ3JX30nlIHw8IY7AssHN6xQ9JAXVMOtAuXE55BEFXo9VcFBNqNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\For Loop - Lab\\Odd Even Sum\\Odd Even Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

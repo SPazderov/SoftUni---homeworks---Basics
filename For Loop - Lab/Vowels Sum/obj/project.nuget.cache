@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6bj1weuvzszMn0ZangHCbEoAhkMXY00kQeNFtVDsgzDaEEVO+HI4Q7x0JV9b8BxQ/32LGi5hEzDgKMuV+SwPPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\For Loop - Lab\\Vowels Sum\\Vowels Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
