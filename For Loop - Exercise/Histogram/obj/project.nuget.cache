@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3qk9LA04U01NwDQe0qP/kXN05KVChBUt/wnHaCsmNvG5de8tVIpug3BtNfRNa1Obnu3iz+StZ15AKXupbYW/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\For Loop - Exercise\\Histogram\\Histogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

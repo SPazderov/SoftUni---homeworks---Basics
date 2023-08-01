@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AFVNSZDHnJP0xdQIsrJP9AmmPFQhRjPe3eOt5hV7X7/gy/hNs8EYsbK9nn2xl2LSHsyVX/po7E7rUrUtTPTrlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\For Loop - Exercise\\Half Sum Element\\Half Sum Element.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

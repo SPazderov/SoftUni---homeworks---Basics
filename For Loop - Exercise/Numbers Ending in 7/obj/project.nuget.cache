@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dFulrq7ECXqgzblbvZC4PKZJy1qrz3H2yBh+rJC1hOeFXpJWON2lgqeSss5psZ7N+AuegopUUoef4YMsUR738g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\For Loop - Exercise\\Numbers Ending in 7\\Numbers Ending in 7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

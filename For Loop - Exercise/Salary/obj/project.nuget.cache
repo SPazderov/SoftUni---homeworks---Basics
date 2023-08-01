@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DPGV4KJPAEEp0IVnWStVJVQMi76ziCGv3pMitZu2cnfRz9RFHoI9oJ+y2uDqlTfDQjzgAjnOlPreApkVvOnV4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\For Loop - Exercise\\Salary\\Salary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
