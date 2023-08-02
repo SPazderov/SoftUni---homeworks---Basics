@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ZSEnN1zFZWO06tIMvGJFlStwI74BHmMJEle5FGU7P1mff3rI6pAsHfIQz832ervlyOjdf3dh5gcbNcjdq6R/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\While Loop - Exercise\\Cake\\Cake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

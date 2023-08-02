@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oCDOjaNsccDw/QTe9fLHGIzBoLdEu40NnnZ+1lwLdIbZ2OsZObNxDQzPSeQV9MFMUxWceFpSoEO5FpWHSZtpkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\While Loop - Exercise\\Walking\\Walking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

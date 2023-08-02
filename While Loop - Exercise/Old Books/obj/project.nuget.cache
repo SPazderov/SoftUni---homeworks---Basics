@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+DCkOmu1YRIYhEvCcO0uqd6aeqsULc6siAJ6J5hmW9IbMDXTjmYZQU7PgxfGoUoVIXCG1znQjdFMO5qbGT0O8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\While Loop - Exercise\\Old Books\\Old Books.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
