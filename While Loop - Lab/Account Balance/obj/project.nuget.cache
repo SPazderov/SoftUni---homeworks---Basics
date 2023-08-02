@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YOUq8fj3lIzWMhAg7BFpajtEdpRlTUh+V12+mo+Bi2fI1wKXZVJGXOXnjZ8tkQJuE2c6TSL5aSVXWOkBgCDMmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\While Loop - Lab\\Account Balance\\Account Balance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

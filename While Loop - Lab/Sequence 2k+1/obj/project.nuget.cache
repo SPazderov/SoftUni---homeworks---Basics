@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pVMJr/q86ieIJjA8XTPmgq+lII7y595t/2GwX4fNQRuVDiV9TpIW3nLyEm0psr+t1PoLyLkyU3LU4fGaE9Rj5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\While Loop - Lab\\Sequence 2k+1\\Sequence 2k+1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

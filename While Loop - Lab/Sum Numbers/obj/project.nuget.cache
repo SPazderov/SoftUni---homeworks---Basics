@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ldhNdBimEXlvhVwG0ZkC5EtpdXSgJJzWv3bbirH27DsRoGLKDG+IfzakdscaaX65nj1LFjhLxpRlKT3GJBYcgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\While Loop - Lab\\Sum Numbers\\Sum Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
