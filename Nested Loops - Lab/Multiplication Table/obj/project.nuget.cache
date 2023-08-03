@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kkhiymItCqjZlzE/C5lCkVuitd5riSNeI4CCiE9RGfwearki3anmT/6z1VTzM4UJB56b8SbiQyNFgyupD+OcyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Nested Loops - Lab\\Multiplication Table\\Multiplication Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

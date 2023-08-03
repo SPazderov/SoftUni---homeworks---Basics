@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vp6t4v02ij4ceqh6zT+NL7HfvdyxTtvD3zkoUDUeXJeXYQXjZpgtof8ZBJuhhatQUhCZ4trVFV2rmQlT5jVkxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Nested Loops - Lab\\Building\\Building.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
