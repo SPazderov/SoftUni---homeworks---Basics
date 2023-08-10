@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNQHhEIEE0M0cPkCcy2Fk3lKMmEQJMQvTzCgAqyeZL5HkMJNsWkTv8oyvPKO1KzT+aYzgaAOQ1+TSwFXSb0rXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Nested Loops - Exercise\\Sum Prime Non Prime\\Sum Prime Non Prime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

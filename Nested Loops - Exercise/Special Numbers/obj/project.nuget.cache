@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jVGYk01EfZdVfYFbBYTRf1TeRNJLlrY/SvYkIFd0NjgX4oZdKe7AmzMdRpGEBQG14gLI9jdDQiH6DYyF5US9GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Nested Loops - Exercise\\Special Numbers\\Special Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hrsHx2LGVI6xAXcrFtUlKXNQZW7V8JuFvpAl1glSS5TP2yuR3dTg9mwZiE+AC7HBRrkDCMhM+Hj3ic8C88joSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuil\\source\\repos\\Nested Loops - Exercise\\Cinema Tickets\\Cinema Tickets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
